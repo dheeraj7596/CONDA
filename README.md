@@ -61,9 +61,10 @@ numpy==1.17.2
 ## Citation
 
 ```
-@inproceedings{Mekala2022LeveragingQD,
+@article{mekala2022intermediate,
   title={Leveraging QA Datasets to Improve Generative Data Augmentation},
-  author={Dheeraj Mekala and Tu Vu and Timo Schick and Jingbo Shang},
+  author={Mekala, Dheeraj and Vu, Tu and Schick, Timo and Shang, Jingbo},
+  journal={arXiv preprint arXiv:2205.12604},
   year={2022}
 }
 ```
