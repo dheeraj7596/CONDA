@@ -1,0 +1,321 @@
+id,text
+train21565,"question : what is this document about? 
+ answer : health 
+ context : im 5'3.....? im 5'3 and weigh 133 pounds, am i over weight or just right? let me know your opinion, please be honest! your huge 
+"
+train1294750,"question : what is this document about? 
+ answer : entertainment 
+ context : whose frenetic talk show always ends in a quiet moment for his ""final thought""? jerry springer!! 
+"
+train24582,"question : what is this document about? 
+ answer : entertainment 
+ context : where can i find full house season 2 the cheapest? go to a site like froogle (http://froogle.google.com) and do a search for ""full house season 2"".  the dvd you want should be the first one on your results list.  click on ""compare prices"" and you'll get a list of sites where the dvd is available, listed in order from cheapest to most expensive.  there will also be a merchant rating to allow you to judge whether you trust the site enough to purchase from them.\n\ncurrently, the cheapest place it comes up is $19.49 at a site called digital cranium, but it's out of stock there and only 6 people have rated the site.  it's available for $20.99 from cd universe, which has more ratings.  i also checked amazon.com directly and they have it for $20.99 as well. \n\nyou might be able to get it cheaper through ebay (http://www.ebay.com) if you're willing to go that route. 
+"
+train24230,"question : what is this document about? 
+ answer : politics 
+ context : should mercy killing (euthanasia) be made legal worldwide? will it be abused more than used? we covered this in my contemporary moral problems class. it really made me think about it in a different way in that i was kind of oblivious to how it could be abused. i always thought that if someone wanted to end his or her own life, they should be able to do so, especially if they were in any sort of pain. i realize that sucks for the family and friends of that person, but if they really cared about the person, they would understand and at least be there for them. but then you have to think about the teri shivos of the world who never mentioned whether or not they would want to be kept alive. the power now lies in the hands of the family and doctors. i think a better question here would be who should be allowed to handle such a decision. that involves an issue of power- a power perhaps no one should have over anyone. that could lead to someone killing another out of spite or even out of some sort of monetary gain. while i completely agree that if someone wants to end their life, they should be able to- but some serious thought needs to go into who should have the power if someone is unable to make that decision for themselves. 
+"
+train1081095,"question : what is this document about? 
+ answer : health 
+ context : why is my knee hurting more? started hurting yesterday, but know it hurts more. i am only 20. the back of the knee is the soreness, it hurts too bend. how can i treat it? well you need to see a doctor about it. i have had 5 knee surgeries and each time before surgery they tell me to put heat on for 20 minutes then ice for 20 minutes so you might try this and see if it helps and stay off it.\ngood luck 
+"
+train1276549,"question : what is this document about? 
+ answer : computer 
+ context : norton antivirus or macaffee? whic do you like better? why????? in all honesty, i think they are equal in terms of what they can/do.  they are both big players in the market and do their job well.  there is enough competition between them to keep them on their toes to provide you the best anti-virus service and definition files.  for me, i would only weigh two things - price and reputation.  if the prices are close, and i would guess they are, i would opt for symantec's norton antivirus software.  this is only because they seem to be more widely recognized, in my opinion.  how this has any affect on the overall product, i would doubt it would carry any weight.  it just makes me more comfortable going with a product that i feel has a bigger share of the market and, therefore, might have a better overall product.  norton av wins 51% of my vote. 
+"
+train1114463,"question : what is this document about? 
+ answer : entertainment 
+ context : the song ""tainted love"" and ""sos"" too alike? is the song ""sos"" by rihanna supposed to sound so much like the song ""tainted love,"" whatever version you prefer. (i prefer the one by soft cell.) one day i turned on the radio and the song ""tainted love"" was playing, except i thought that it was ""sos"" until the guy started singing! is that supposed to happen? umm..its the same beat just mixed and arraged differrent.  yes it is suppose to be that way. no one is orginal anymore. 
+"
+train23082,"question : what is this document about? 
+ answer : health 
+ context : what do you do for fluid on the knee? yes, see a doctor. it may not be serious, but there is no way any of us can tell over the internet. you need to consult your physician. 
+"
+train287592,"question : what is this document about? 
+ answer : entertainment 
+ context : whay nationall syndicated comic strip was created march 27, 1972? garfield had its debut on june 19, 1978,\n\npeanuts 2 october 1950\n\ndoonesbury 26 oct 1970 
+"
+train240399,"question : what is this document about? 
+ answer : politics 
+ context : how can my british boyfriend get a greencard? we're trying to get him to move here, but want to avoid getting married for the wrong reasons.  how can be apply for a greencard? as a british citizen now in the us here is my two pence. some options - (1) he can come as a tourist for six months at a time. he cannot legally work when he is here. don't know your financial situation. (2) he can get a h1. he will need to have a degree and some experience and get a company in the us to sponsor him. if he has a it / technical background and/or a masters this is easier. (3) there are many visa options based on his skill set eg- highly educated and skilled or some very specialized skill. the usci site has information on it. (4) invest money in a us based business, employ people and get a visa to operate the business.\n\nso the only real options is coming over is a temporary tourist or some kind of professional route. 
+"
+train12546,"question : what is this document about? 
+ answer : computer 
+ context : how do you get rid of winfixer???? i have gone out to their (extortionist!) site but nothing has helped.  i have recently downloaded norton 2006 and it hasn't detected anything.  i have found pieces by doing searches in safe mode but when i think i have everything deleted it shows up again. anyone successful??? this one drove me crazy, it took me a combination of programs to get rid of it.\n\ngo to this forum and follow the directions;\n\nhttp://www.geekstogo.com/forum/malware_removal_hijackthis_logs-f37.html\n\nall the tools you need are located on this site including step by step instructions.\n\npersonally i run adaware, cleanup, spybot, and avg anti-virus. you may want to run mozilla instead of internet explorer. beyond that, at home i only use apple imac's running osx. 
+"
+train777223,"question : what is this document about? 
+ answer : computer 
+ context : can someone explain to me what indexof is in visual basic? can i have an example? it appears to be a string function, one that looks at the character at the position indicateded.  don't quote me on vb syntax, but something like this \n\nvar string mystring = ""hello"";\nmystring.indexof('e');  <-- this would give you a value of ""1"" (one), assuming the indexing starts at zero. 
+"
+train28163,"question : what is this document about? 
+ answer : relationship 
+ context : y do guys wake up horny? i don't know, but it's fine with me :o 
+"
+train243736,"question : what is this document about? 
+ answer : science 
+ context : how fast sperm travels? ""rapid"" sperm travel 25 microns/second, or one sperm length every 2 seconds.  ""slow"" progressive sperm swim 5 - 24 microns / sec. \n\nrapid sperm are pretty quick.  slow sperm, not so much.  \nps - they figure it out by watching them swim under a microscope that has a little micron ruler. 
+"
+train814674,"question : what is this document about? 
+ answer : science 
+ context : please help.? can you give me a step by step on how to do this.\n\n1 and 4/11 divided by 3\n\nso thats\n\n a one  and 4 over eleven divided by 3 1 and 4/11=15/11\n\n15/11 devided by 3=(15/3) over 11\n5/11 is the answer 
+"
+train105873,"question : what is this document about? 
+ answer : business 
+ context : vegeterianism? could any of you please provide some slogans promoting vegetarianism? the best one(within 24 hrs) will be awarded 10 points. eat green. stay healthy.\n\nvegetarians don't cause animal deaths.\n\nare you a vegetarian? you should be.\n\nmeat is for the ugly.\n\nbecome a vegetarian. save a chicken, cow, pig. 
+"
+train1088035,"question : what is this document about? 
+ answer : politics 
+ context : which president would have been better? bush or kerry??? bush has a kind look in him, though he doesn't look to be intelligent. he doesn't look manipulative, but probably can be easily manipulated.\n\nhe has a father figure look, or at least a young boy following his father footsteps look.\n\n\nkerry has a mean look in him, and also he looks 'intelligent' in comparison to bush. he looks manipulative, and probably can be very easily manipulated due to his 'intelligence'.\n\nhe has an action figure look, or a determined man look (senator kelly?). 
+"
+train184318,"question : what is this document about? 
+ answer : science 
+ context : list the factors that affect staying upright(human)? being in the presence of a willing and attractive sex partner.\nalcohol.\nbeing hit really hard.\nfalling asleep. 
+"
+train1163994,"question : what is this document about? 
+ answer : sports 
+ context : que pensez vous de notre cher raymond domenech ?? qu'il est aussi bon tacticien comme entraîneur qu'il était bon technicien quand il jouait. il faut savoir que ce cher monsieur jouait défenseur et qu'il était réputé pour son jeu rugueux.....il en a fait voler des attaquants......en résumé, raymond tu sors!!!!!!! 
+"
+train878455,"question : what is this document about? 
+ answer : sports 
+ context : which stud to sit today??? i can only start 2 of these guys; clinton portis (vs phi), chester taylor (vs gb) or warrick dunn (vs cle).  i'd normally start portis & taylor but with dunn against cleveland (and norwood out), it's tough to sit dunn you should sit warrick dunn.  cleveland's defense is tougher than people give them credit for, and i know the fact that norwood is out makes dunn tempting.  however, taylor is facing a weak green bay defense, and a player of portis's caliber should never be on the bench.  i would start taylor as the vikes' offense is essentially built around him, but if you're feeling dunn then start him, but do not sit portis. 
+"
+train227847,"question : what is this document about? 
+ answer : computer 
+ context : how to define mainboard failure? mainboard failure would be, failure of the mainboard.  wether by a transitor overheating, a nic chip failing, or any other aspect of the mainboard deceiding not to work.  why, are you having problems with your mainboard? 
+"
+train1261002,"question : what is this document about? 
+ answer : education 
+ context : to do 3d maya specialisation abroad which is the best university in california  and florida? the universities tht u suggest me should consider only toefl score or should provide seat in the university based on talent or previous works.i can't pay huge amt to do the course,if the university provide any scholarship it will be helpful,am an artist by nature n have done 3 projects handdrawings.if 3d maya specialisation providing universities contain walt disney or pixar in their campus recruitment companies  it is too good.i madly need this information ,thx to all those who give me info regarding this. you should go to these sites for more info:\nwww.usnews.com\nwww.princetonreview.com\nwww.collegeprowler.com\nwww.collegeboard.com 
+"
+train885202,"question : what is this document about? 
+ answer : entertainment 
+ context : today at osu mich game the lines were big and long for the womens restrooms and the men were  nice to let is g the restrooms why they stould watch outside i used a mens urinals for the first time it was not that hard to use  how many women out there have ever tried to pee in to a mens urinal ya know...?  i'm rather curious about this... 
+"
+train19987,"question : what is this document about? 
+ answer : education 
+ context : how to get a uk student visa when am already in a foreign country as a student? am already in a foreign country but i can no longer adhust here so after all the information i have acquired i found the uk to be the most suitable place for me to study but am afraid that i might be refused the visa because am already student somewhere else!i really want some good guidance.the fact is that once in my own country i will apply for the uk visa so i thnought why not i apply it from here itself.so please help me embassy 
+"
+train722083,"question : what is this document about? 
+ answer : education 
+ context : im moving to sanford florida,i need to know what the school year schedule for elementary and junior high? http://www.scps.k12.fl.us/index.cfm\n\nleft hand side of screen is calendar - open it in text or block format 
+"
+train853428,"question : what is this document about? 
+ answer : politics 
+ context : do you think that gay marrige (partnership) should be illegal? i think that gay partners should do what they please with thier life. let them be gay if they want. take anthony rapp or jonathan larson for example. they rocked out loud! no, i say live and let live. i have a very busy and happy life...i just don't have the time to trouble myself with what other people do with their lives ...as long as they are not hurting me ...and how could a gay marriage hurt me or anyone?...i feel so sorry for the bored , suffering a miserable life pathetic people that have not one thing in the whole world ..their whole lives..better to do with the precious little time we have than to run around putting down gays or anybody for that matter...can you imagine having such a miserable life that you waste time and energy on what gays or anybody else do with their lives?? they try and make other peoples business their own ....what a sad sack lot they must be.i hope generations to come are not so unhappy in their lives ..and mostly i wish for .....\n\npeace 
+"
+train15021,"question : what is this document about? 
+ answer : science 
+ context : what is the speed of light in inches per second? hi writholeen, the only flaw in jaynick's answer is the accuracy part. as per the national institute of standards and technology, the exact value of speed of light in vacuum is 299,792,458 m/s. by exact, i mean there is no uncertainity till the last digit. \n\nto be precise, what we usually call the ""speed of light"" is really the speed of light in a vacuum (the absence of matter). in reality, the speed of light depends on the material that light moves through. thus, for example, light moves slower in glass than in air, and in both cases the speed is less than in a vacuum. however, the density of matter between the stars is sufficiently low that the actual speed of light through most of interstellar space is essentially the speed it would have through a vacuum, so we don't make much error by ignoring the difference.\n\nto make it easier for you to convert, here is the speed in alternative units :\n\n(1) 983,571,056.4304461 foot/second\n(2) 11,802,852,677.165352 inch/second\n(3) 1,079,252,848.8 kilometer/hour\n(4) 299,792.458 kilometer/second\n(5) 582,749,918.3585312 knot\n(6) 880,991.0899527 mach\n(7) 670,616,629.3843952 mile/hour (mph)\n\nthese values are accurate to the 7th digit of decimal. \n\n\nflaw in jaynick's answer:\n\nthe speed of light in kilometres per second is 279,600 kilometres/sec. even if you approximate the actual value , 299,792.458 kilometer/second by round off the last three digit, the value would have been 300,000 kilometers per second. 
+"
+train264644,"question : what is this document about? 
+ answer : sports 
+ context : where can i find a spot to surf by bellingham washington? sounds cold but have a good time:\nhttp://www.surfline.com/travel/surfmaps/surfmap.cfm?id=37 
+"
+train23005,"question : what is this document about? 
+ answer : sports 
+ context : where can i teach tennis in manhattan? have taught for six years\nplayed division i college tennis for 4 years\nwas an american east all-conference player\nhave played and for 20 years (am 25 years old)\nhave competed for 13 years\njust moved to downtown manhattan\nwilling to travel to any part of manhattan to teach it appears that the question period has expired. if you have received an answer that meets your needs, please choose a 'best answer.'\nregards. 
+"
+train800133,"question : what is this document about? 
+ answer : health 
+ context : what is the difference between claritin & allegra? they are both prescribed for allergies (allergic rhinitis).  \nallegra (fexofenadine) is only available with a prescription, so its a bit more expensive.  it is a selective antihistamine.  allegra interferes with the effectiveness of antacids and nevirapine.\nclaritin (loratadine) is available otc, so you can actually get a bottle of 60 for under $10 for the generic stuff.  it is also a selective antihistamine.  claritin does not seem to interact with any other medications. \nallegra appears to have less side effects.  allegra side effects include headache, dizziness, and/or drowsiness.  claritin side effects include bronchospasm, headache, fatigue, dry mouth, nervousness, and/or abdominal pain.  \nlike any medication, the response for each patient differs.  claritin did nothing for me.  i had severely inflamed nasal passages, but allegra has been better. 
+"
+train289800,"question : what is this document about? 
+ answer : society 
+ context : would america be a world power if christianity hadn't occured? no, it wouldn't. it was based on: in god we trust. too bad others have come along and took what our forefathers had in mind when writing our constitution and twisted it. too bad there is barely any freedoms left in this country to enjoy without being lashed out at against by some group or another. i wonder what our founding fathers would think of our ""progress"" if they could see us now? 
+"
+train1071943,"question : what is this document about? 
+ answer : relationship 
+ context : i really like this guy, how do i get him notice me in a different way? i really like this guy, but we are just friends. we hang around each other kinda a lot. and on holloween we took are friendship farther but that was it! im so confused. does he like me? are we only going to be friends? i really like him and i want to start talking to him but i dont know. and he is kinda talking to some girl... which really hurts cause i like him. i dont know what i should do should i try or just live it alone? how do i get him to notice me???? you need to talk to him..dont leave it alone thats the worst thing to do if you want him to notice your feelings for him you need to start talking if you are to shy you need to boost your confedence..try to talk into a mirror or something like that make sure you dont sound a little of when you tell him...and make sure you do it face to face its alot more atractive if you do it that way. 
+"
+train1286627,"question : what is this document about? 
+ answer : relationship 
+ context : don't you hate  asl??? it drives me crazy.? why does everyone always ask asl and get mad when you tell them that you dont want to say your age, or location? stupid i think. if a person says no i am not interested in saying, go ask someone else, i think they should be left alone. yes it gets on my nerves. you put all that stuff in your profile so they wont ask and they still ask anywaysk, and on top of that they keep bugging about getting on cam. you say no and they keep on. people can be annoying. 
+"
+train777678,"question : what is this document about? 
+ answer : relationship 
+ context : should i forgive her? ive had this really big fight wit ma mate. nd she said pretty nasty things like im not worth nuffin nd stuff like dat nd im really annoyed wit her? i dnt no if she will say sorry but if she does should i forgive her cause she always does this nd den says sorry? you should forgive her but speak to her and try and find out way she says nasty things, she probally has deeper problems and is taking her anger out on you 
+"
+train170427,"question : what is this document about? 
+ answer : computer 
+ context : i have a yahoo messenger pop up, what do i do to get rid of it? i use messenger regularly, as this is the only form of communication to my mom in south africa. i am currently living in taiwan. anyway, i have this ""flash music online: nothing gonna change my love for you\nhttp://www.music-flash.net/flash.exe"" pop up that does not want to go away. i have uninstalled yahoo, and re-installed. it is still here. it is very annoying, as it pops up as it wants, in between a message i am writing. i have deleted cookies, and all temp files, i have deleted ad-ware. i dont know what else to do to get rid of this thing. i am really getting very frustrated at it. almost at a point where i dont want to use yahoo messenger anymore. please if someone can help me, please! i would really appreciate any suggestions or comments or help. please! go to\n-messenger\n-privacy options\n-general\n\neasy && simple 
+"
+train247423,"question : what is this document about? 
+ answer : relationship 
+ context : im responsible for a pregnant girl in our class,  but we were 16. pray tell what should i do !? a this time noone has notice it , but soon it wll.and im looking everywhere for..i dont know.. help? you both still young, maybe take a abortion. taking care a baby is not easy and huge responsible. if you both haven't confident to raise the bb up. then don't bring to earth for suffering. 
+"
+train771971,"question : what is this document about? 
+ answer : relationship 
+ context : how do you tell your love of your life that you don't love him.i have found out that he is no good for me. i have loved this guy for a year and i was so posativ the i was going to be with him for the rest of my life. now things have changed another man came in to my life and showed me there is more to love then looks he loves me for me and not the way look what do i do to tell the man i hoped was the one that i can not be with him and that i will always have a place in my hart for him? if you can help or any thing that would rock thanks so much are you sure this new guys isn't really after you for your body??  it certainly can't be for your brains...or at least your spelling and writing ability.  i just love needy, weak chicks who can't live a second without a man in their lives.  if man #2 didn't show up, you'd still be happy with man #1.  you said nothing that he had done wrong.  you should break up with #1 and stay away from #2 for a least a month so you really know what you want. 
+"
+train783732,"question : what is this document about? 
+ answer : computer 
+ context : best unknown website? do you know of a cool website that no knows about? i'm bored and want to waste time before i go home. cool anime site, www.freewebs.com/lhtdm\ncool horror story site, www.freewebs.com/tailsdollcurse\ncool comic site, www.quackerandbowen.com\ncool vg comic site, www.vgcats.com\ncool making a site, site, www.freewebs.com 
+"
+train23035,"question : what is this document about? 
+ answer : entertainment 
+ context : besides max's kansas city, where else did the velvet underground play in new york city? they played at the factory for andy warhol and somewhere, there's a picture of them playing for a mental health benefit in the sixties, in nyc. 
+"
+train196528,"question : what is this document about? 
+ answer : education 
+ context : where is a good web-site where i can find the history and where my last name originated? i need to research my last name for an english mini-report i need a good web-site that i can use to find out where my last name originated and what history my last name has behind it http://www.last-names.net/ easy enough eh? looks promising so good luck... ^___~ 
+"
+train7101,"question : what is this document about? 
+ answer : business 
+ context : who has the highest 1 year cd? i already found a 1 year at 4.84% apy\nany 1 year cds out there better?  only looking at one year. with a $10,000 min deposit, that's about as good as it gets for now....(12/22/05). with a $500 minimum deposit, several banks are offering a 4.80% apy 
+"
+train1281313,"question : what is this document about? 
+ answer : politics 
+ context : can anyone explain the ""doctrine of phases"" that some extremist muslim groups have regarding destroying israel there are two different schools of thought in the arab world regarding israel (on a large scale, i'm sure there are individuals who don't ascribe to either).\n\n1) hamas, et al- destroy israel all at once.\n\n2) fatah, et al- through diplomatic means return to pre- 1967 borders, then destroy the rest of israel.  (the ""doctrine of phases"")\n\nthis was never a secret.  fatah officials repeatedly stated that this was their view openly, on the radio, for many years.\n\nafter a while, they realized that if they kept saying it openly, they would never get the diplomatic concessions that they were seeking, so they stopped saying that they would use the return to pre- 67' borders as a stepping point to destroy israel, but continued to insist on being given such a concession. 
+"
+train1244353,"question : what is this document about? 
+ answer : science 
+ context : who invented the fork that we eat with? it was invented in the middle east pre-1000ad. 
+"
+train890738,"question : what is this document about? 
+ answer : entertainment 
+ context : do you love or like christmas? i love the true meaning of christmas. jesus being born. and i love christmas. and at the same time christmas is sad to me also. 
+"
+train251588,"question : what is this document about? 
+ answer : education 
+ context : what does it mean if someone is labled a prep? it is a social group, usually in school, where the person usually is very meticulus about their outward appearence, including clothes, hair, makeup, jewelry; usually having to have the latest fashions.  people from this group also need to be well known; they are usually outspoken in classes, try to make many friends and usually belong to many extra curricular activities so they are widely known.  many times, unfortunately, these kinds of people tend to start believing that their own way of thinking and acting is the best way to behave and start to make fun of those not like themselves.   but, they don't always behave this way, and most other social groups do this also, including ""jocks,"" ""goths,"" and even ""nerds.""  \n\nnone of these social groups are any intrinsicly better than any other, they simply all express themselves differently.  people from any of these group, or many others, can be wealthy, poor, smart, dumb, likable, dislikable, friendly... or just plain asses. 
+"
+train808652,"question : what is this document about? 
+ answer : science 
+ context : why are all of the curves on highways slightly banked? they are engineered this way so that centrifugal force will be neutralized by the roadway banking. 
+"
+train217876,"question : what is this document about? 
+ answer : health 
+ context : does anyone know? of an an acne medication that works well for adults.  never had acne as a teen, but have been noticing some lately.  would like to see if i can keep it from happening, but don't think the stuff targeted for teens would work.  any suggestions? you could try rapid clear made by neutrogena. it worked the best for me considering all the other otc products. 
+"
+train336786,"question : what is this document about? 
+ answer : business 
+ context : where can i get a surety bond? ask your insurance agent.  most sell them 
+"
+train807018,"question : what is this document about? 
+ answer : health 
+ context : has anyone ever been criticized by any one online and how have you? i used to use the chatrooms a fair bit and went into some pretty controversial topics.  of course these topics were all open for debate, but regretfully not all criticism was constructive/positive.  if someone became nasty or treated me the wrong way i always placed them on ignore.  im never going to meet them and they have no idea about my life so why should i fret over a small matter. 
+"
+train28467,"question : what is this document about? 
+ answer : society 
+ context : what city smokes the most marijuana? i hear colorado is big on smoking but i'd have to say gainesville florida cause me and my roommates smoke enough for the entire city 
+"
+train860341,"question : what is this document about? 
+ answer : society 
+ context : walmart employees are going to be ""allowed"" to say merry christmas? they were limited to ""happy holidays"" last year, but so many people boycotted walmart because of this because it seemed like they were shunning christmas, i think its about time they realized that 80% if the american population was christian, what do you think? that's great but it doesn't make walmart this nice company.  they're obviously just doing what it takes to get the dollars at christmas.\n\nhere you are, you're heart all warm about saying merry christmas because you're glad they're keeping christ in christmas yet you call me stupid.  that's very lame. 
+"
+train871449,"question : what is this document about? 
+ answer : sports 
+ context : how many people hate florida? i hate florida and i want to know now how many people hate the florida gators!!!i`m a georgia fan!!!!!!!!!!!! i don't really hate the florida gators because i think they're a pretty good team.\n\nhowever, i really do hate their fans!\n\nevery single one of them think that the gators are the best in college football.  well if they were, then wouldn't they be #1 in the polls?  ap, usa today, bcs...\n\ni love the fact that their fans think that they play such a tough schedule (which includes two teams from the conference usa and another team in division two).\n\nwhenever the bulldogs play against the gators, i'll be rooting for the bulldogs... 
+"
+train1285609,"question : what is this document about? 
+ answer : health 
+ context : how can i lose whieght without taking pills.? im 13. exercise, exercise, exercise......\n\ncut out fast food, extra sugar, soda, etc.\n\ndon't start dieting though.  \n\nread on:\n\nhttp://answers.yahoo.com/question/index;_ylt=aizpapzqn26e2spkcwodl7xsy6ix?qid=1006052019211\n\nhttp://answers.yahoo.com/question/index;_ylt=agdewejhhxd5t_pbyg7t9czsy6ix?qid=1006052228072 
+"
+train24442,"question : what is this document about? 
+ answer : sports 
+ context : what is the best basketball shoe? nike zoom air huarache's. they are by far the most comfortable and light on your feet. check them out. 
+"
+train343924,"question : what is this document about? 
+ answer : sports 
+ context : who do u think will win the wc2006? brazil 
+"
+train804279,"question : what is this document about? 
+ answer : business 
+ context : how i get license for employment agency? i want to open a employment agency in toronto area may be in gta employment agency licensing: north dakota department of labor \n... of the licensure requirements for employment agencies operating in north dakota ... person first obtains an employment agency license from the department of labor. ...www.nd.gov/labor/services/ea-licensing - 
+"
+train866576,"question : what is this document about? 
+ answer : society 
+ context : are there any religions that teaches the philosophy of living life in excess? hedonism:pursue pleasure, avoid pain. 
+"
+train22865,"question : what is this document about? 
+ answer : politics 
+ context : why does everybody hate bill clinton? i think he was all right, despite his... troubles... hate is a strong term didn't really care for him as a president and was the main reason i didn't go into the military (now i'm too old to go).\n\nthe way he botched samalia, ruth bader ginsburg (everyone should be mad about the current view of imminate domain no matter what party you belong to), the fact we were offered ossama three times and clinton turned them down, suborning purgery, purgery, the fact he was a marxist, ramsey clarck, joceylene elders, janet reno, waco, ruby ridge, clinon's ban on assault weapons, which they weren't assault weapons because an assault weapon is fully-automatic, not semiautomatic, marxist style medicine, the fact he couldn't stay loyal to his wife, sandy burger,bosnia,not doing anything about the first attack on the world trade center, not doing anything about the attack on the uss cole, he is as much a media hog as mccaine, not doing anything about illegal immigration (one of the problems i have with bush). 
+"
+train362618,"question : what is this document about? 
+ answer : entertainment 
+ context : roses are  red ..violets are blue..i like peanut butter? can you skate? and jelly too! 
+"
+train1111460,"question : what is this document about? 
+ answer : society 
+ context : is it just a phase-ish thingy? i'm being very bitchy and emotional lately for the past 2 months. i've started crying out of nowhere for no reason and i've been getting really drunk. i'm paranoid more than ever! i can't stand me, i think i'm going insane and i yell and cuss at everyone including mom and dad and they don't do anything about it. it's as if they don't even care! i think they know something about me that i don't even know. like how the government's keeping secrets from us...  it's all a lie! omigosh- have you taken a pregnancy test???     sounds like your hormones are going craaaaaaazy! 
+"
+train26369,"question : what is this document about? 
+ answer : society 
+ context : who decided that christmas be celebrated every december 25? the emperor constantine.  he was looking to please all the people of the time so he made christmas at the same time as the pagan mid-winter feast of saturalia. in that way he could have the christians and the pagans happy and celebrating at the same time.  see link to discover about saturnalia. 
+"
+train847164,"question : what is this document about? 
+ answer : politics 
+ context : what are bill clintons introductionary highlights? research paper unknown at this time!!!!!!!!!!!!!!!!!!! 
+"
+train81199,"question : what is this document about? 
+ answer : business 
+ context : definetion of environment? the totality of circumstances surrounding an organism or group of organisms, especially the combination of external physical conditions that affect and influence the growth, development, and survival of organisms. 
+"
+train14176,"question : what is this document about? 
+ answer : science 
+ context : what is snow made of? :) *-* water vapor that has frozen.\ntidbit: snow doesn't melt - it vaporizes, turning back into vapor as it heats up. 
+"
+train30368,"question : what is this document about? 
+ answer : relationship 
+ context : how can i hook back with ex boyfriend??? well, i chated on him and i change and i really really want to be with him. he was my true love like he was part of my life and when he broke up with me i broke down and stated to cry, not like in front of him i went home and then i started to cry in my room. so yeah help plz!! i didn't mean to cheat on him cause you know when there is a cute or hot boy that was your boyfriend's friend you can stop thinking of him then i was thinking about of his friend and i forgot about my boy, and he knows that i still have feelings for him but i know he will say no to me. well help me out plz!!!!!!!!!!!!!!! tell him you still love him and that he is sweet 
+"
+train1063502,"question : what is this document about? 
+ answer : computer 
+ context : whats wrong with a computer if it do not download anything? hey\nthere is nothing wrong with your computer if it isn;t downloading anything more it just means that you have run out of downlaods from your download server or you have run out of space on your computer to donwload anything, if you want to download anything either upgrade your ram drive or delete the things you don't need on your computer.\n\nhope this helped. 
+"
+train1185368,"question : what is this document about? 
+ answer : business 
+ context : would you live in a place like this? my company is developing a brand new community, mixed-use development is all the buzz. that's where some residential might be above some retail/office like in downtowns, but all shiney and new. theoretically, you can walk or short drive to many things like shopping, medical, work, school, etc.\n\nif you would live in such a place, tell me about yourself - are you  single, married, with kids; blue collar, professional, student, retired; low, moderate or high income, etc. we have several of these in the bay area.  they range from very small, moderate prices to high end.  i'm married and trying to start a family, so this would not appeal to me.  however, if i were single, i would be very interested in the high end type.  the one around here has apartments for rent and condos for sale.  the shopping center has mostly high end shops (tommy bahama, furla, diesel, etc.), restaurants, bars, a hotel, and a movie theater.  i would expect this type of community to appeal to single, professionals with fairly high income. 
+"
+train1295084,"question : what is this document about? 
+ answer : society 
+ context : ladies...what was the most disgusting thing you have ever found in your purse? after having raised 2 boys, the disgusting items i have found are too numerous to list, but i just want to know if i am the only one. okay, we took the neighbor girl to the symphony with us and in the middle of the concert she leaned over and said she didn't feel well. i told her it was almost over and we would take her home. she then leaned over and puked into my purse. it is one thing to be covered in your own kids vomit but someone elses? the keys were in there. i had to fish them out. 
+"
+train309931,"question : what is this document about? 
+ answer : politics 
+ context : are we the only grandparents needing finacial help to raise our grandkids? we are raising our grandkids and can get no help because we are the grandparents. but if they would of went to foster care, the state would pay them to take care of them. the children are 16yrs, 14yrs, 13yrs, and 7yrs old. my husband is 65 and i am 51. i really wish more grandparents would speak up with me and let's get some help here. we've already sacrificed and raised our own kids, but do not want to see them in the system. the state should be willing to help grandparents like they do foster care homes, and it shouldn't matter if we are millionares or using the nest egg we build up for old age, either one, the state is not backing up grandparents, but want to keep them with family. right, but with no help. it is very wrong to do this to grandparents that stand up and not let their grandchildren go to foster care. it's not fair to grandparents anywhere. hope to hear back from someone in this same predicament. wish i knew who to write in congress.!!!!!!! help me to help grandparents!! why not start by writing ur local congress representative? also, many charities have crises & family grants & loans. try getting info. abt ur local ones from ur local social worker/ advice centre. 
+"
+train18607,"question : what is this document about? 
+ answer : education 
+ context : (questions on george orwell) who can help me? what was his first book and when was it published? down and out in paris and london (1933 
+"
+train363201,"question : what is this document about? 
+ answer : society 
+ context : how many of you have photographic memory? do you? if not i can give you a memory you wouldn't forget. 
+"
+train1019120,"question : what is this document about? 
+ answer : education 
+ context : i need help on writing a story about ""a woman who fights for women's rights and suffers"".? i'm writing a 25 page story for my history class and just can't seem to get any inspiration on it. i just need a few ideas please. i'm stuck. perhaps you can derive your story from the history of joan of arc.....or perhaps from the play medea by euripides (although male, often referred to as the early feminist and ridiculed for his plays) 
+"
+train311415,"question : what is this document about? 
+ answer : relationship 
+ context : who wants to date my boss? denver, co 27, bday yesterday, male seeking female, he likes short girls with blonde hair but is open. southern gentleman, looking for a nice, classy, fun girl. you're a blonde, no??? \njust assuming frm ur avatar.. so umm u didn't fit his description?? or just doing this for fun??\ni think i fit him.. but i'm married.. sorry.. hehehe good luck on your search :) 
+"
+train1042304,"question : what is this document about? 
+ answer : science 
+ context : quadratic fomula. right or wrong? the problem: 5x^2+3x+1=0\n\nmy answer: [-3(+-)(sqr)-11]/10\nmy question is since negitive 11 is squared is the answer: not a real number? because there is no number that will square negitive 11. hello dear neil \n\n5x^2+3x+1=0\n\n● step 1 \nif f(x) = ax^2 + bx + c \n∆ = b^2 - 4(a)(c) & ∆ ≥ 0\nf(x) = 5x^2+3x+1\na = +5 , b = +3 , c = +1\n∆ = (3^2) - 4 (5)(1) \n∆ = 9 - 20 \n∆ = -11 < 0\nwell this function has so real solution\n\n● step 2 \nx1 = 1/10 (-3 - i √11)\nx2 = 1/10 (-3 + i √11)\nso \nx 1 = -0.3 - 0.331662i\nx 2 = -0.3 + 0.331662i\n\nso you are pretty right .\ngood luck neil ♣ 
+"
+train333841,"question : what is this document about? 
+ answer : business 
+ context : what papers are needed to get a replacement social security card and can this be done online? check this site.. it should be able to tell you if you can or not and give you the forms that you need to fill out. 
+"
+train6599,"question : what is this document about? 
+ answer : business 
+ context : is it possible to have a just friend relationship with a person that from the get go wasw more then a friend.? no it is not.  once you have had a relationship with someone you can not go back to just friends.  you either have hard feelings you can not let go of or you will revisit the past on a occasion. 
+"
+train1313641,"question : what is this document about? 
+ answer : sports 
+ context : who will score 40 points or more tonight (6/20) for nba finals game 6? i think wade but not dirk.\n\nalso, click on the link to answer what will be the final score for tonight's game.\nhttp://answers.yahoo.com/question/index;_ylt=ah9t4yw37z1kyldzod0jz4psy6ix?qid=20060618213803aafzcor i agree. dirk is not having good game.s wade is on fire and i think he will score 40. dirk might because there is a sense of urgency, but i think it's wade. 
+"
+train280780,"question : what is this document about? 
+ answer : health 
+ context : does anyone know of any dependable and affordable health insurance for  young adults? there are many companies out there who specialize in affordable health insurance. mega life, midwest and united american insurance all offer affordable policies. these policies do not offer comprehensive coverage that you would find in group policies instead they offer a specified benefit amount thereby making them more affordable. ask the agent when the last rate increase was, and what the deductibles are to make sure you get the best plan for you. 
+"
+train728146,"question : what is this document about? 
+ answer : education 
+ context : if you are hoping on getting a degree, what  do you hope to achieve when you get the degree? i am a law student, so when i get my jd and pass the bar exam, i expect to be successful and eventually make loads of money. well, at least enough to pay off the massive amount of loans! lol i would not go through law school otherwise: it sucks 90% of the time! :o) my fellow law school students and attorneys know what i mean. 
+"
+train11779,"question : what is this document about? 
+ answer : computer 
+ context : where can i download or watch anime or manga television shows for free on line? must a legtimate and legal website for free. if there isn't tell me one that cost very little. (ex. of anime and manga. inu yahsa, wolf's rain, area 88, vision of escaflowne.) http://boxtorrents.com/\nu will also have 2 download a bittorent download program 
+"
