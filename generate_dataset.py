@@ -305,7 +305,7 @@ def generation_handler(dataset_name, tokenizer, model, strategy, num_tries):
     contexts = []
     labels = []
 
-    assert dataset_name in ["sst", "agnews", "imdb"]
+    assert dataset_name in ["sst", "agnews", "imdb", "nyt-coarse", "yahoo"]
 
     if dataset_name == "sst":
         answers = ["positive", "negative"]
@@ -334,6 +334,31 @@ def generation_handler(dataset_name, tokenizer, model, strategy, num_tries):
                 labels += ["positive"] * args.num_tries
             else:
                 labels += ["negative"] * args.num_tries
+    elif dataset_name == "nyt-coarse":
+        answers = ["arts", "business", "politics", "science", "sports"]
+        questions = ["what is this document about?"] * len(answers)
+        for q, a in zip(questions, answers):
+            temp_contexts = generate(tokenizer, model, q, a, strategy=strategy, num_tries=num_tries)
+            contexts += temp_contexts
+            labels += [a] * args.num_tries
+    elif dataset_name == "yahoo":
+        answers = [
+            "society",
+            "science",
+            "health",
+            "education",
+            "computer",
+            "sports",
+            "business",
+            "entertainment",
+            "relationship",
+            "politics"
+        ]
+        questions = ["what is this document about?"] * len(answers)
+        for q, a in zip(questions, answers):
+            temp_contexts = generate(tokenizer, model, q, a, strategy=strategy, num_tries=num_tries)
+            contexts += temp_contexts
+            labels += [a] * args.num_tries
 
     df = pd.DataFrame.from_dict({"generated_context": contexts, "label": labels})
     return df
