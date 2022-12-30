@@ -411,5 +411,3 @@ if __name__ == "__main__":
     df = generation_handler(args.dataset_name, tokenizer, model, strategy=args.strategy, num_tries=args.num_tries)
     df.to_csv(os.path.join(args.output_dir, "df_gen_" + args.strategy + "_" + str(args.num_tries) + "_sampling.csv"),
               index=False)
-    pickle.dump(df, open(
-        os.path.join(args.output_dir, "df_gen_" + args.strategy + "_" + str(args.num_tries) + "_sampling.pkl"), "wb"))
