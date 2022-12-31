@@ -1,6 +1,5 @@
 # Leveraging QA Datasets to Improve Generative Data Augmentation
 
-## Code is being updated!! Expect rapid & frequent changes!
 This repository contains code to run ConDA-SocialIQA.
 We consider SocialIQA dataset as an example QA dataset and the provided code can be easily modified for other QA datasets.
 
@@ -30,7 +29,7 @@ Our framework requires QA datasets and target-task classification datasets.
 The ```scripts/run.sh``` requires three arguments: 
 - ```gpu_id``` refers to the id of the gpu. 
 - ```tmp_path```, refers to the destination to dump the models.
-- ```dataset```, refers to the dataset name. It has to be among ``[sst, agnews, imdb, nyt-coarse, yahoo]``.
+- ```dataset```, refers to the dataset name. It has to be among ``[sst, agnews, imdb, nyt-coarse, yahoo, yelp]``.
 
 Example command to run:
 ```shell script
