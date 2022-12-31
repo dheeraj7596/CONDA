@@ -46,13 +46,14 @@ Above script performs following thrice for three random seeds (13, 21, 42):
 
 This project is based on ```python==3.7```. The dependencies are as follows:
 ```
-scikit-learn==0.21.3
+scikit-learn==0.24.1
 torch==1.9.1
-argparse
-transformers==4.3.3
+argparse==1.1
+transformers==4.11.3
+datasets==1.12.1
 nltk
-scipy=1.3.1
-numpy==1.17.2
+scipy=1.6.2
+numpy==1.20.3
 ```
 
 ## Citation
