@@ -21,7 +21,8 @@ Our framework requires QA datasets and target-task classification datasets.
 * QA datasets are in `data/qa/` folder. Each sample is in Question-Answer-Context format.
 * Target classification datasets are in `data/cls/` folder.
   * Each classification dataset has 3 sub-folders: `train, val, test`. We don't use validation data.
-  * `Train` folder have three files corresponding to few-shot supervision obtained from three different random seeds.  
+  * `Train` folder have three files corresponding to few-shot supervision obtained from three different random seeds.
+  * Note that `train_qac_x.csv` is same as `train/train_x.csv` in QAC format, that is used for domain adaptation step. 
 
 
 ### Commands
