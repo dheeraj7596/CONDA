@@ -60,10 +60,19 @@ numpy==1.20.3
 ## Citation
 
 ```
-@article{mekala2022intermediate,
-  title={Leveraging QA Datasets to Improve Generative Data Augmentation},
-  author={Mekala, Dheeraj and Vu, Tu and Schick, Timo and Shang, Jingbo},
-  journal={arXiv preprint arXiv:2205.12604},
-  year={2022}
+@inproceedings{mekala-etal-2022-leveraging,
+    title = "Leveraging {QA} Datasets to Improve Generative Data Augmentation",
+    author = "Mekala, Dheeraj  and
+      Vu, Tu  and
+      Schick, Timo  and
+      Shang, Jingbo",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.660",
+    pages = "9737--9750",
+    abstract = "The ability of generative language models (GLMs) to generate text has improved considerably in the last few years, enabling their use for generative data augmentation. In this work, we propose CONDA, an approach to further improve GLM{'}s ability to generate synthetic data by reformulating data generation as context generation for a given question-answer (QA) pair and leveraging QA datasets for training context generators. Then, we cast downstream tasks into the same question answering format and adapt the fine-tuned context generators to the target task domain. Finally, we use the fine-tuned GLM to generate relevant contexts, which are in turn used as synthetic training data for their corresponding tasks. We perform extensive experiments on multiple classification datasets and demonstrate substantial improvements in performance for both few- and zero-shot settings. Our analysis reveals that QA datasets that require high-level reasoning abilities (e.g., abstractive and common-sense QA datasets) tend to give the best boost in performance in both few-shot and zero-shot settings.",
 }
 ```
